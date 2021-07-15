@@ -1,1 +1,2 @@
-# Chess
+# ChessEngine
+Assignment Folder
